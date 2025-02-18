@@ -1,1 +1,1 @@
-# Apple-Website-Front-Page-Clone
+This repository is a React-based clone of the Apple.com homepage. It replicates the design and layout of the original site, with only the header links being functional. Built for practice and learning purposes, it showcases responsive UI development using React.
