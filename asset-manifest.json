@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1a6bffa.css",
+    "main.js": "/static/js/main.e675cdf3.js",
+    "static/media/famiiiilllyyy.jpg": "/static/media/famiiiilllyyy.6295e053dfb94f3aa239.jpg",
+    "static/media/23cb0a1a-4701-4461-b6de-6e0b9d1fe86e.jpeg": "/static/media/23cb0a1a-4701-4461-b6de-6e0b9d1fe86e.7bac8ea4d6a2e9df790b.jpeg",
+    "static/media/fotor-right.png": "/static/media/fotor-right.c53b377388b1148ad6c2.png",
+    "static/media/fotor-left.png": "/static/media/fotor-left.4cf0e070b2862d0e852d.png",
+    "static/media/iphone-15-pro.jpeg": "/static/media/iphone-15-pro.0bce176daa0e83c5dcf6.jpeg",
+    "static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.jpg": "/static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.357f69752cb112e643c0.jpg",
+    "static/media/1d0df437-3f2e-4e2a-b498-38b8cbb2b687.jpeg": "/static/media/1d0df437-3f2e-4e2a-b498-38b8cbb2b687.0034432d4cb473ed8306.jpeg",
+    "static/media/nokia hands.jpg": "/static/media/nokia hands.76fb17a2780cc128839d.jpg",
+    "static/media/watch 2.jpg": "/static/media/watch 2.5eb9d904ef239bb2ffba.jpg",
+    "static/media/rihanna.jpg": "/static/media/rihanna.8376269a4219409cecab.jpg",
+    "static/media/mac.jpg": "/static/media/mac.b670fd88eeb193c678fb.jpg",
+    "static/media/card.jpg": "/static/media/card.2ed7af2271e7516f75ec.jpg",
+    "index.html": "/index.html",
+    "main.d1a6bffa.css.map": "/static/css/main.d1a6bffa.css.map",
+    "main.e675cdf3.js.map": "/static/js/main.e675cdf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1a6bffa.css",
+    "static/js/main.e675cdf3.js"
+  ]
+}
